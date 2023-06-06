@@ -2,7 +2,7 @@
 
 ## My name is Blake Robison
 
-# I'm currently learning bash scripting in Linux
+### I'm currently learning bash scripting in Linux
 
 <!--
 **blrobi1/blrobi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
