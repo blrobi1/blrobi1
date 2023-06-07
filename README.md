@@ -2,7 +2,10 @@
 
 ## My name is Blake Robison
 
-### I'm currently learning bash scripting in Linux
+### I'm currently learning bash scripting in Linux, networks, and other topics in IT
+### I am a Computer Science TA for a STEM summer program
+
+<a href="https://lh3.googleusercontent.com/5OWFFW7-0jlMVFjtWbnDW3Dejxo91bq9fK04N3b_jnOXCQSxwl0vLTG67y6bMP6Hnkhc3mfG8hak0hjgRddYwLgqlxl21sMSWEawTcxvSgBv3aFuvFzFfAGafG5NrpSuUC5zTPb9LQc=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/5OWFFW7-0jlMVFjtWbnDW3Dejxo91bq9fK04N3b_jnOXCQSxwl0vLTG67y6bMP6Hnkhc3mfG8hak0hjgRddYwLgqlxl21sMSWEawTcxvSgBv3aFuvFzFfAGafG5NrpSuUC5zTPb9LQc=w600-h315-p-k" /> </a>
 
 <!--
 **blrobi1/blrobi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
