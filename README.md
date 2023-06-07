@@ -1,6 +1,6 @@
 ## Blake Robison
 
-<a href="https://lh3.googleusercontent.com/_fvMDZ5VlRO4dork_L92X_x_97CMFmbG3RUKJCxZ-z_i1nyHPkI9pIP2e0F5h9fpoS58QrTBMHEnDkbgwsDlh4Fwd68FdgNrYFcY9pchsxCWml_c8iv-FTtz7u6IE6t6TJ786T8DzyU=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/_fvMDZ5VlRO4dork_L92X_x_97CMFmbG3RUKJCxZ-z_i1nyHPkI9pIP2e0F5h9fpoS58QrTBMHEnDkbgwsDlh4Fwd68FdgNrYFcY9pchsxCWml_c8iv-FTtz7u6IE6t6TJ786T8DzyU=w600-h315-p-k" /> </a>
+<a href="https://lh3.googleusercontent.com/lbPaVErq8u7n9tM-tVgt45MESeTEEW1CLud23AN9ikq2sQgIZMgstoYkWcQchQV6lxfhZMuklyJ0oLUyr42UrsEKqSVle2zy7mUi_DPYmzdYbZ-3on_jkpK6VichvcXloN8mivXGStI=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/lbPaVErq8u7n9tM-tVgt45MESeTEEW1CLud23AN9ikq2sQgIZMgstoYkWcQchQV6lxfhZMuklyJ0oLUyr42UrsEKqSVle2zy7mUi_DPYmzdYbZ-3on_jkpK6VichvcXloN8mivXGStI=w600-h315-p-k" /> </a>
 
 ### I'm currently learning bash scripting in Linux, networks, and other topics in IT
 ### I am a Computer Science TA for a STEM summer program
